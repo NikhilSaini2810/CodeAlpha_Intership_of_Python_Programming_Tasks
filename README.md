@@ -11,10 +11,10 @@ This repository contains all tasks and projects completed during my Python Progr
 ---
 
 ### 🛠️ Table of Contents
-- [Project 1: Basic_chatbot](#basic_chatbot.py)
-- [Project 2: Hangman](#project-2-task-name)
-- [Project 3: Task Automation](#project-3-task-name)
-- [Conclusion](#conclusion)
+- [Project 1: Basic_chatbot]
+- [Project 2: Hangman]
+- [Project 3: Task Automation]
+- [Conclusion]
 
 ---
 
@@ -81,6 +81,5 @@ This repository contains all tasks and projects completed during my Python Progr
 This internship provided me with valuable hands-on experience in Python programming, allowing me to apply my skills to real-world projects and automate tasks effectively. Thank you, CodeAlpha, for the opportunity!
 
 
-
 ### 📬 Contact Information
-For more about me, visit my [GitHub Profile](https://github.com/Dumbosaurus) or connect on [LinkedIn](https://www.linkedin.com/in/wahid-jamadar-183a762b1/).
+For more about me, visit my [GitHub Profile]-(https://github.com/NikhilSaini2810) or connect on [LinkedIn]-(https://www.linkedin.com/in/nikhil-saini-214570259/)
